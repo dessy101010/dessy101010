@@ -1,7 +1,7 @@
 - 👋🏾 Hi, I’m Desmond.
--  I’m interested in science.
--  I’m currently learning arduino.
--  I’m looking to collaborate on arduino rf and humidity/temperature modules, basically 'libraryless projects' for any arduino module with more complex output that plain analog and digital.
+-  I’m interested in mcu programming.
+-  I’m currently experimenting modules and.
+-  I’m looking to collaborate on rf and humidity/temperature modules, basically 'libraryless projects' for any mcu module with more complex output that analog or digital.
 - 📫 How to reach me: Twitter; @dessy_101010: Instagram; dessy_101010
 
 <!---
